@@ -33,6 +33,9 @@ This project can be used as a reference for anyone looking to implement a biomet
 </div>
 
 
+### Circuit diagram setup
+
+<img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Circuit_ESP8266.png" >
 
 ### Enroll 
 
@@ -40,3 +43,6 @@ This project can be used as a reference for anyone looking to implement a biomet
 - You must enter a fingerprint ID. As this is your first fingerprint, type 1 in the upper left corner fingerprint, type 1 in the upper left corner, then click the Send button.
 <img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Enroll.png" >
 
+- Place your finger on the fingerprint to scan and at the same time follow the instructions on the serial monitor of the Arduino.
+
+<img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Student_Creation.png" >
