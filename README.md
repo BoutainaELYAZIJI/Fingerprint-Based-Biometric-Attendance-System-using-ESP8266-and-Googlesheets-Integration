@@ -33,9 +33,21 @@ This project can be used as a reference for anyone looking to implement a biomet
 </div>
 
 
-### Circuit diagram setup
+### Components Used
+- NodeMCU
+- R305 Fingerprint sensor
+- I2C Module for 16x2 Alphanumeric LCD
+- Breadboard
+- Jumpers
 
-<img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Circuit_ESP8266.png" >
+### Circuit diagram setup for Arduino and  Bluetooth Module
+
+
+<img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Circuit_Arduino.png" >
+
+### Circuit diagram setup for ESP8266
+
+<img  src="https://github.com/BoutainaELYAZIJI/Fingerprint-Based-Biometric-Attendance-System-using-ESP8266-and-Googlesheets-Integration/blob/main/Circuit_Diagram_ESP8266.png" >
 
 ### Enroll 
 
